@@ -1,4 +1,4 @@
-import 'package:expenses/components/transaction_form.dart';
+import 'package:flutter_personal_finance_cod3r/components/transaction_form.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 import 'components/transaction_form.dart';
